@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @Ankitaupadhaya
-- 👀 I’m interested in software development 
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on projects related to DSA and coding contests
+- 👋 Hi, I’m @Ankitaupadhaya.
+- 👀 I’m currently pusuing my BTech degree from Government Engineering College.
+- 🌱 I’m currently learning JAVA and Javascript.
+- 💞️ My interest lies in the feild of Artificial Intelligence , Web Development and Android Development.
+- 👀 Some extra feild of interests are Graphic Designing and Video Animations.
+- 🌱 Exploring the society with the eye of Technology.
+- 💞️ Ready to contribute and collaborate in IT sectors and projects based on JAVA,Python,C,HTML,CSS and Javascript.
 
 
 <!---
